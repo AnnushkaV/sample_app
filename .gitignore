@@ -16,4 +16,7 @@
 !/log/.keep
 /tmp
 /idea
+.idea/*
 /public/images
+**/.idea/
+.idea
