@@ -28,3 +28,4 @@ bundler_stubs/
 
 # Ignore application configuration
 /config/application.yml
+.idea
