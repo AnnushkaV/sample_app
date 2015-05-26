@@ -16,7 +16,7 @@
 !/log/.keep
 /tmp
 /config/database.yml
-doc/
+doc/r
 *.swp
 *~
 .project
