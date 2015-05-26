@@ -15,8 +15,23 @@
 /log/*
 !/log/.keep
 /tmp
+<<<<<<< HEAD
 /idea
-.idea/*
+
 /public/images
-**/.idea/
-.idea
+
+
+=======
+/config/database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+bundler_stubs/
+/public/uploads
+
+
+# Ignore application configuration
+/config/application.yml
+>>>>>>> static-pages
