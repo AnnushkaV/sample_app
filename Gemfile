@@ -11,6 +11,7 @@ group :development, :test do
   gem 'spork-rails', '4.0.0'
   gem 'guard-spork'
   gem 'childprocess'
+  gem 'bootstrap-sass'
 end
 
 group :test do
